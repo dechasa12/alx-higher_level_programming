@@ -20,4 +20,4 @@ def roman_to_int(roman_string):
 
                 last = elem[1]
 
-    return 
+    return num
